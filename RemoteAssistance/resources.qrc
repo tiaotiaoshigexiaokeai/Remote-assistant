@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>images/logo.svg</file>
-        <file>images/hand.png</file>
-        <file>images/help.png</file>
-        <file>images/give.png</file>
-    </qresource>
-</RCC>
